@@ -6,6 +6,9 @@
 #include "GameFramework/Character.h"
 #include "INCharacter.generated.h"
 
+class UCameraComponent;
+class USpringArmComponent;
+
 UCLASS()
 class ACTIONADVENTURE_API AINCharacter : public ACharacter
 {
@@ -17,7 +20,16 @@ public:
 
 protected:
 	// Called when the game starts or when spawned
+	
+	UPROPERTY(VisibleAnywhere)
+	UCameraComponent* CameraComp;
+
+	UPROPERTY(VisibleAnywhere)
+	USpringArmComponent* SpringArmComp;
+
 	virtual void BeginPlay() override;
+
+	void MoveForward(float Value);
 
 public:	
 	// Called every frame
