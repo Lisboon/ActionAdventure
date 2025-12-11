@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.ActionAdventure.gen.cpp.obj": [
-			"ActionAdventure.init.gen.cpp.obj",
-			"INCharacter.gen.cpp.obj"
-		]
-	}
-}
