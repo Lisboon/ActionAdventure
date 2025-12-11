@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\ActionAdventure.uproject" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionAdventure.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ActionAdventureEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\ActionAdventure">
+      <UniqueIdentifier>{E64CD243-DBE2-395E-B187-D8B16D375FE1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionAdventure\ActionAdventure.Build.cs">
+      <Filter>Source\ActionAdventure</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ActionAdventure\ActionAdventure.cpp">
+      <Filter>Source\ActionAdventure</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ActionAdventure\ActionAdventure.h">
+      <Filter>Source\ActionAdventure</Filter>
+    </ClInclude>
+    <Filter Include="Source\ActionAdventure\Private">
+      <UniqueIdentifier>{E21BCC1B-0CE8-3FC0-BAA5-67652E65E8A9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ActionAdventure\Private\INCharacter.cpp">
+      <Filter>Source\ActionAdventure\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ActionAdventure\Public">
+      <UniqueIdentifier>{62D67990-104D-3C0A-81D4-4D3966807607}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ActionAdventure\Public\INCharacter.h">
+      <Filter>Source\ActionAdventure\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\UpgradeLog.htm" />
+  </ItemGroup>
+</Project>

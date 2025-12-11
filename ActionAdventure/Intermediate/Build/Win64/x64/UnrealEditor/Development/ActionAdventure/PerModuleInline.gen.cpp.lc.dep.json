@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\actionadventure\\actionadventure\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actionadventure\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\actionadventure\\actionadventure\\intermediate\\build\\win64\\x64\\actionadventureeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\actionadventure\\actionadventure\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actionadventure\\definitions.actionadventure.h",
+            "d:\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

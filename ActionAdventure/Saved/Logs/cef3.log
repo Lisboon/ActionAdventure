@@ -1,0 +1,17 @@
+[26208:12772:1210/214650.410:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26208:12772:1210/214650.562:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26208:12772:1210/214656.188:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[5380:4848:1210/214658.549:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-747BB1E14EF332DF70E0D7A6901A45E3 will be ignored
+[26208:12772:1210/214700.552:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[26208:12772:1210/214700.552:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[26208:12772:1210/214700.552:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[26208:12772:1210/214700.552:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[26208:12312:1210/214702.228:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[28392:1336:1210/214921.219:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[28392:1336:1210/214921.219:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[28392:1336:1210/214921.220:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1x1
+[28392:1336:1210/214921.220:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 1x1 (100% of ideal size)
+[28392:15764:1210/214921.887:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[28392:15764:1210/214921.888:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[28392:1336:1210/214923.243:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1x1
+[26208:12772:1210/221159.184:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

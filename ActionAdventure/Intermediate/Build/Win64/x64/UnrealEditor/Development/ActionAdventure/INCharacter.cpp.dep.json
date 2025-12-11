@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\actionadventure\\actionadventure\\source\\actionadventure\\private\\incharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\actionadventure\\actionadventure\\intermediate\\build\\win64\\x64\\actionadventureeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\actionadventure\\actionadventure\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actionadventure\\definitions.actionadventure.h",
+            "d:\\actionadventure\\actionadventure\\source\\actionadventure\\public\\incharacter.h",
+            "d:\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue_5.7\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\ue_5.7\\engine\\source\\runtime\\net\\iris\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\actionadventure\\actionadventure\\intermediate\\build\\win64\\unrealeditor\\inc\\actionadventure\\uht\\incharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
